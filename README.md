@@ -27,4 +27,4 @@ This function generates a video from the all the images generated at the end of 
 
 
 ## Keywords:  
-Python, OpenCV, Image Processing, Binarization, Multiple Blobs Detection, Image Filtering, Blurring, Sharpening, Morphological Operations, Sperm Head Detection, Video Reading, and Video Generation
+Urbano's Segmentation and Detection, Python, OpenCV, Image Processing, Binarization, Multiple Blobs Detection, Image Filtering, Blurring, Sharpening, Morphological Operations, Sperm Head Detection, Video Reading, and Video Generation.
