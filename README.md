@@ -17,7 +17,7 @@ This function is the segmentation and localization method proposed by Urbano *et
 This function generates a video from the all the images generated at the end of section **(2-b)** of this document, namely "Seg_frameX." The video is saved in the working directory. The video's name could be defined by the user at line 8.  
 
 ### (4) Testing Sample: 
-"Sample2.mp4" is sperm sample I found on YouTube [3]. I used this sample in order to test the Urbano's segmentation and localization algorithm that was presented in [1].
+"Sample2.mp4" is sperm sample I found on YouTube [3]. I used this sample in order to test the Urbano's segmentation and localization algorithm that was presented in [1]. "Sample2 with detections.avi" is the video output that shows the detected sperm heads from frames 900 to 1000.  
 
 
 ## Reference:  
