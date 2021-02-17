@@ -12,7 +12,7 @@ Each input frame undergoes a series of filtering before being binarized. First, 
 
 **(b) Localization**  
 Blobs are now detected frame the binzary image. As presented in [1], blobs area is calculated and all blobs whose area is under 5 pixels are rejected. The rest are considered sperm heads and a red square a placed at the position of their centroids. At the end of this stage, images with squares around the detected heads are saved as "Seg_frameX" (where X is the frame number) in folder "image."  
-*Note: In this work, I have shrunk the region of interest (RoI) of each frame by neglecting the borders (regions that are within 20 pixels from the borders). This is step, however, is not mentioned in [1].*
+*Note: In this work, I have shrunk the region of interest (RoI) of each frame by neglecting the borders (regions that are within 20 pixels from the borders). This is step, however, is not mentioned in [1]. The RoI is represented by a large red rectangle.*
   
 ### (3) Urbano_Binarization_and_Localization.py: 
 This function generates a video from the all the images generated at the end of section **(2)**(b), namely "Seg_frameX." The video is saved in the working directory. The video's name could be defined by the user at line 8.
