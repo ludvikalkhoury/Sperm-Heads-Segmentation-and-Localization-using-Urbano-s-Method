@@ -17,5 +17,5 @@ This function is the segmentation and localization method proposed by Urbano *et
 This function generates a video from the all the images generated at the end of section **(2)**(b), namely "Seg_frameX." The video is saved in the working directory. The video's name could be defined by the user at line 8.
 
  ## Reference:  
- [1] Urbano, L. F., Masson, P., VerMilyea, M., & Kam, M. (2016). Automatic tracking and motility analysis of human sperm in time-lapse images. IEEE transactions on medical imaging, 36(3), 792-801.
+ [1] Urbano, L. F., Masson, P., VerMilyea, M., & Kam, M. (2016). Automatic tracking and motility analysis of human sperm in time-lapse images. IEEE transactions on medical imaging, 36(3), 792-801.  
  [2] Otsu, N. (1979). A threshold selection method from gray-level histograms. IEEE transactions on systems, man, and cybernetics, 9(1), 62-66.
