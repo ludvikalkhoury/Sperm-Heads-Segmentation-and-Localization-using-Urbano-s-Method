@@ -14,7 +14,7 @@ This function is the segmentation and localization method proposed by Urbano *et
 *Note: In this work, I have shrunk the region of interest (RoI) of each frame by neglecting the borders (regions that are within 20 pixels from the borders). This is step, however, is not mentioned in [1]. The RoI is represented by a large red rectangle.*
   
 ### (3) Urbano_Binarization_and_Localization.py: 
-This function generates a video from the all the images generated at the end of section **(2)**(b), namely "Seg_frameX." The video is saved in the working directory. The video's name could be defined by the user at line 8.
+This function generates a video from the all the images generated at the end of section **(2-b)** of this document, namely "Seg_frameX." The video is saved in the working directory. The video's name could be defined by the user at line 8.
 
  ## Reference:  
  [1] Urbano, L. F., Masson, P., VerMilyea, M., & Kam, M. (2016). Automatic tracking and motility analysis of human sperm in time-lapse images. IEEE transactions on medical imaging, 36(3), 792-801.  
