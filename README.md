@@ -4,5 +4,5 @@
  
  
  
- Reference \newline
+ Reference  
  [1] Urbano, L. F., Masson, P., VerMilyea, M., & Kam, M. (2016). Automatic tracking and motility analysis of human sperm in time-lapse images. IEEE transactions on medical imaging, 36(3), 792-801.
