@@ -21,8 +21,8 @@ This function generates a video from the all the images generated at the end of 
 
 
 ## Reference:  
-[1] Urbano, L. F., Masson, P., VerMilyea, M., & Kam, M. (2016). Automatic tracking and motility analysis of human sperm in time-lapse images. IEEE transactions on medical imaging, 36(3), 792-801.  
-[2] Otsu, N. (1979). A threshold selection method from gray-level histograms. IEEE transactions on systems, man, and cybernetics, 9(1), 62-66.  
+[1] Urbano, L. F., Masson, P., VerMilyea, M., & Kam, M. (2016). Automatic tracking and motility analysis of human sperm in time-lapse images. *IEEE transactions on medical imaging*, 36(3), 792-801.  
+[2] Otsu, N. (1979). A threshold selection method from gray-level histograms. *IEEE transactions on systems, man, and cybernetics*, 9(1), 62-66.  
 [3] Ovation Fertility. (2016, December 1). *Sperm Prep for IUI - Before and After* [Video]. YouTube. https://www.youtube.com/watch?v=5ytxRZ5i74g 
 
 
