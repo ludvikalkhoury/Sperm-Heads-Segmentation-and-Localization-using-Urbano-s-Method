@@ -1,5 +1,5 @@
 # Sperm Heads Segmentation and Localization using Urbano's Method [1]
-In this repository, I will provide a Python code of the segmentation and localization method presented by Urbano *et al.* (2017) [1]. There are three main functions namely, Frame_Generation_From_Main_Video.py, Urbano_Binarization_and_Localization.py, and Video_Generation_with_Detections.py. The main library I used in order to implement all Image Processing operations is "OpenCV."
+In this repository, I will provide a Python code of the segmentation and localization methods presented by Urbano *et al.* (2017) [1]. There are three main functions namely, Frame_Generation_From_Main_Video.py, Urbano_Binarization_and_Localization.py, and Video_Generation_with_Detections.py. The main library I used in order to implement all Image Processing operations is "OpenCV."
  
 ### (1) Frame_Generation_From_Main_Video.py:  
 This function will (1) import a video from your working directory, (2) create a folder and name it "image" in this it didn't exist already, and (3) generate a user-specified number of frames and then same them in the folder "image." The three variables that the user can change are "Initial_Frame" (line 7), "Final_Frame" (line 8), and "Video_name" (line 9).
